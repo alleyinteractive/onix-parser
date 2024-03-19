@@ -1,5 +1,5 @@
 {
-    "name": "commonknowledge/onix",
+    "name": "alleyinteractive/onix",
     "description": "An ONIX 3.0 Parser",
     "type": "library",
     "license": "MIT",
